@@ -29,10 +29,10 @@
                     <h2 class="title">Call us</h2>
                     <p class="contact">
                         <b>Phone number:</b></br>
-                        <b style="font-size: 24px">+37 255 659 763</b></br>
-                        <b style="font-size: 24px">+37 256 133 133</b></br>
-                        <b style="font-size: 24px">+37 256 497 997</b></br>
-                        <b style="font-size: 24px">+37 256 490 939</b></br>
+                        <b style="font-size: 24px">+372 55 659 763</b></br>
+                        <b style="font-size: 24px">+372 56 133 133</b></br>
+                        <b style="font-size: 24px">+372 56 497 997</b></br>
+                        <b style="font-size: 24px">+372 56 490 939</b></br>
                     </p>
                 </div>
                 <div class="col-md-6 ml-auto mr-auto">

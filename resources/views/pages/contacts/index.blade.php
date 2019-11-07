@@ -8,10 +8,16 @@
     @include('includes.helpers.header.page_header',
     [
         'page_header_title' => 'Contacts',
-        'page_header_description' => '<b style="font-size: 24px">Konstantin Motovilin</b></br>
-            <b style="font-size: 24px">+38 050 469 69 39</b></br></br>
-            <b style="font-size: 24px">Lesia Vakula</b></br>
-            <b style="font-size: 24px">+38 050 469 06 60</b>'
+        'page_header_description' => '
+            <b style="font-size: 24px">Volodimir Palamar</b></br>
+            <b style="font-size: 24px">+37 255 659 763</b></br>
+            <b style="font-size: 24px">Vitaly Levchenko</b></br></br>
+            <b style="font-size: 24px">+37 256 133 133</b></br></br>
+            <b style="font-size: 24px">Muzyka Sergiy</b></br>
+            <b style="font-size: 24px">+37 256 497 997</b></br>
+            <b style="font-size: 24px">Konstantin Motovilin</b></br>
+            <b style="font-size: 24px">+37 256 490 939</b>
+            '
     ])
 @endsection
 
@@ -23,8 +29,10 @@
                     <h2 class="title">Call us</h2>
                     <p class="contact">
                         <b>Phone number:</b></br>
-                        <b style="font-size: 24px">+38 050 469 69 39</b></br>
-                        <b style="font-size: 24px">+38 050 469 06 60</b>
+                        <b style="font-size: 24px">+37 255 659 763</b></br>
+                        <b style="font-size: 24px">+37 256 133 133</b></br>
+                        <b style="font-size: 24px">+37 256 497 997</b></br>
+                        <b style="font-size: 24px">+37 256 490 939</b></br>
                     </p>
                 </div>
                 <div class="col-md-6 ml-auto mr-auto">

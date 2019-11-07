@@ -73,10 +73,10 @@
                 <h6 class="text-uppercase font-weight-bold">You can reach us 24/7</h6>
                 <hr class=" mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
                 <p>
-                    <a class="link link-gray" data-toggle="modal" data-target="#adressModal" href="#!"><i class="fa fa-home mr-3"></i>Tallinn, EE</a></p>
+                    <a class="link link-gray" data-toggle="modal" data-target="#adressModal" href="#!"><i class="fa fa-home mr-3"></i>Estonia, Vana-Posti tn 7, 10146, Tallinn</a></p>
                 <p>
-                    <a href="tel:+380504696939" class="link link-gray" >
-                        <i class="fa fa-phone mr-3"></i>050 469 69 39
+                    <a href="tel:+37255659763" class="link link-gray" >
+                        <i class="fa fa-phone mr-3"></i>+372 556 597 63
                     </a>
                 </p>
 

@@ -26,9 +26,9 @@
             </ul>
             <ul class="navbar-nav social ml-auto">
                 <li class="nav-item phone">
-                    <a href="tel:+380504696939" class="btn btn-info btn-raised btn-round" data-toggle="dropdown">
+                    <a href="tel:+37255659763" class="btn btn-info btn-raised btn-round" data-toggle="dropdown">
                         <i class="material-icons pr-1">phone</i>
-                        +38 050 469 69 39
+                        +372 556 597 63
                     </a>
                 </li>
             </ul>

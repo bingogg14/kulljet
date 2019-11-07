@@ -1,0 +1,178 @@
+.page-header.header-filter {
+  background-image: url('../img/bg/jet.jpg');
+}
+
+.buttons-group {
+  .btn {
+    &:last-child {
+      font-weight: bold;
+      letter-spacing: 1.125px;
+    }
+  }
+}
+
+.bg {
+  &-info {
+    background: $info;
+  }
+  &-default {
+    background: $dark;
+  }
+}
+
+.text-light hr{
+  border-color: $light;
+}
+
+
+
+footer {
+  display: block;
+  padding: 0;
+  margin: $padding-general-x 0 0;
+}
+
+.footer-copyright {
+  background: darken($dark, 2%);
+  & a {
+    @include transition($btn-transition);
+    &:hover, &:active, &:focus {
+      color: darken($white, 15%);
+      text-decoration: underline;
+    }
+  }
+}
+
+.link {
+  @include transition($btn-transition);
+  &:hover, &:active, &:focus {
+    text-decoration: underline;
+  }
+  &-gray {
+    color: darken($white, 25%);
+    &:hover, &:active, &:focus {
+      color: darken($white, 15%);
+      text-decoration: underline;
+    }
+  }
+}
+
+.dark-gray-text {
+  color: darken($white, 35%);
+}
+
+.gray-text {
+  color: darken($white, 25%);
+}
+
+.modal-get-quotes {
+  & .modal-content {
+    & .modal-footer {
+      & .btn {
+        & i {
+          font-size: $static-font-size;
+        }
+      }
+    }
+  }
+}
+
+.modal-map {
+  & .modal-content {
+    & .modal-body {
+      & .card-body {
+        min-height: 50vh;
+      }
+    }
+  }
+}
+
+.text-blue-gradient {
+  background: linear-gradient(135deg, $info 20%, $white 60%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  border-image-slice: 1;
+}
+
+
+.modal-top-header {
+  & .card-header{
+    width: 100%;
+    position: relative;
+    & .close{
+      position: absolute;
+      top: $modal-header-padding;
+      right: $modal-header-padding;
+      color: $white;
+    }
+
+    & .card-title {
+      text-transform: uppercase;
+    }
+  }
+}
+
+
+@media screen and (min-width: 991px) {
+  .footer .title{
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .navbar-collapse {
+    &.top {
+      .navbar-nav {
+        .nav-item {
+          &.phone {
+            padding-top: 30px;
+            text-align: center;
+          }
+
+          &.active {
+            color: $pink-500
+          }
+          &:after {
+            width: calc(100% - 30px);
+            content: "";
+            display: block;
+            height: 1px;
+            margin-left: 15px;
+            background-color: #e5e5e5;
+          }
+        }
+
+        &.social {
+          display: block;
+          flex-direction: unset;
+          text-align: center;
+          .nav-item {
+
+            &:after {
+              display: none;
+            }
+
+            &.inline {
+              display: inline-flex;
+              .nav-link {
+                margin: 5px;
+              }
+            }
+          }
+        }
+
+      }
+    }
+  }
+}
+
+
+
+@media screen and (max-width: 375px) {
+  .navbar {
+    &.navbar-transparent {
+      padding-top: 10px;
+    }
+  }
+}

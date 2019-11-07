@@ -9,12 +9,12 @@
     [
         'page_header_title' => 'Contacts',
         'page_header_description' => '
-            <b style="font-size: 24px">Volodimir Palamar</b></br>
-            <b style="font-size: 24px">+37 255 659 763</b></br>
+            <b style="font-size: 24px">Volodimir Palamar</b></br></br>
+            <b style="font-size: 24px">+37 255 659 763</b></br></br>
             <b style="font-size: 24px">Vitaly Levchenko</b></br></br>
             <b style="font-size: 24px">+37 256 133 133</b></br></br>
-            <b style="font-size: 24px">Muzyka Sergiy</b></br>
-            <b style="font-size: 24px">+37 256 497 997</b></br>
+            <b style="font-size: 24px">Muzyka Sergiy</b></br></br>
+            <b style="font-size: 24px">+37 256 497 997</b></br></br>
             <b style="font-size: 24px">Konstantin Motovilin</b></br>
             <b style="font-size: 24px">+37 256 490 939</b>
             '

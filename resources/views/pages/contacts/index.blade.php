@@ -9,14 +9,16 @@
     [
         'page_header_title' => 'Contacts',
         'page_header_description' => '
-            <b style="font-size: 24px">Volodimir Palamar</b></br>
-            <b style="font-size: 24px">+372 55 659 763</b></br></br>
-            <b style="font-size: 24px">Vitaly Levchenko</b></br>
+            <b style="font-size: 24px">Vladimir Palamar</b></br>
+            <b style="font-size: 24px">+372 56 777 210</b></br></br>
+            <b style="font-size: 24px">Vitalii Levchenko</b></br>
             <b style="font-size: 24px">+372 56 133 133</b></br></br>
+            <b style="font-size: 24px">Kostiantyn Motovilin</b></br>
+            <b style="font-size: 24px">+372 56 490 939</b></br></br>
             <b style="font-size: 24px">Muzyka Sergiy</b></br>
             <b style="font-size: 24px">+372 56 497 997</b></br></br>
-            <b style="font-size: 24px">Konstantin Motovilin</b></br>
-            <b style="font-size: 24px">+372 56 490 939</b>
+            <b style="font-size: 24px">Alex Vernygora</b></br>
+            <b style="font-size: 24px">+372 55 581 644</b></br></br>
             '
     ])
 @endsection

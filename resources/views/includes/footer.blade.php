@@ -75,11 +75,15 @@
                 <p>
                     <a class="link link-gray" data-toggle="modal" data-target="#adressModal" href="#!"><i class="fa fa-home mr-3"></i>Estonia, Vana-Posti tn 7, 10146, Tallinn</a></p>
                 <p>
-                    <a href="tel:+37255659763" class="link link-gray" >
-                        <i class="fa fa-phone mr-3"></i>+372 556 597 63
+                    <a href="tel:+37256777210" class="link link-gray" >
+                        <i class="fa fa-phone mr-3"></i>+372 56 777 210
                     </a>
                 </p>
-
+                <p>
+                    <a href="mailto:info@kulljet.com" class="link link-gray" >
+                        <i class="fa fa-mail mr-3"></i>info@kulljet.com
+                    </a>
+                </p>
                 <p>
 
             </div>

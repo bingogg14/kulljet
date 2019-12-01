@@ -81,7 +81,7 @@
                 </p>
                 <p>
                     <a href="mailto:info@kulljet.com" class="link link-gray" >
-                        <i class="fa fa-mail mr-3"></i>info@kulljet.com
+                        <i class="fa fa-envelope mr-3"></i>info@kulljet.com
                     </a>
                 </p>
                 <p>

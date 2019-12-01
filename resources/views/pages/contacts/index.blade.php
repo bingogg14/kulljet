@@ -15,9 +15,9 @@
             <b style="font-size: 24px">+372 56 133 133</b></br></br>
             <b style="font-size: 24px">Kostiantyn Motovilin</b></br>
             <b style="font-size: 24px">+372 56 490 939</b></br></br>
-            <b style="font-size: 24px">Muzyka Sergiy</b></br>
+            <b style="font-size: 24px">Sergiy Muzyka</b></br>
             <b style="font-size: 24px">+372 56 497 997</b></br></br>
-            <b style="font-size: 24px">Alex Vernygora</b></br>
+            <b style="font-size: 24px">Vlad Alex Vernygora</b></br>
             <b style="font-size: 24px">+372 55 581 644</b></br></br>
             '
     ])
@@ -31,10 +31,11 @@
                     <h2 class="title">Call us</h2>
                     <p class="contact">
                         <b>Phone number:</b></br>
-                        <b style="font-size: 24px">+372 55 659 763</b></br>
+                        <b style="font-size: 24px">+372 56 777 210</b></br>
                         <b style="font-size: 24px">+372 56 133 133</b></br>
-                        <b style="font-size: 24px">+372 56 497 997</b></br>
                         <b style="font-size: 24px">+372 56 490 939</b></br>
+                        <b style="font-size: 24px">+372 56 497 997</b></br>
+                        <b style="font-size: 24px">+372 55 581 644</b></br>
                     </p>
                 </div>
                 <div class="col-md-6 ml-auto mr-auto">

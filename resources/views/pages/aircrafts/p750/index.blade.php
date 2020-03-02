@@ -17,8 +17,11 @@
                     </h4>
                     <br>
                     <div class="buttons-group">
-                        <a href="#" data-toggle="modal" data-target="#reserveModal" class="btn btn-info btn-raised btn-lg">
-                            <i class="fa fa-file-download pr-1"></i> Presentation
+                        <a href="/documents/aircrafts/p750/p-750_xstol_brochure.pdf" target="_blank" class="btn btn-default btn-raised btn-lg">
+                            <i class="fa fa-download pr-1"></i> Specification
+                        </a>
+                        <a href="/documents/aircrafts/p750/p-750_xstol_tech_spec.pdf" target="_blank" class="btn btn-outline-info btn-raised btn-lg">
+                            <i class="fa fa-download pr-1"></i> Brochure
                         </a>
                     </div>
                 </div>

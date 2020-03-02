@@ -12,3 +12,7 @@ const mix = require('laravel-mix');
  */
 
 mix.sass('resources/scss/material-kit.scss', 'public/assets/css');
+
+if (mix.inProduction()) {
+    mix.version();
+}

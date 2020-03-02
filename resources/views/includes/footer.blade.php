@@ -16,7 +16,7 @@
                 <!-- Grid column -->
                 <div class="col-md-6 col-lg-7 text-center text-md-right social-buttons pt-3 py-md-0">
                     <!--Instagram-->
-                    <a class="btn btn-rose btn-round">
+                    <a href="https://www.instagram.com/kull_jet_company/" class="btn btn-rose btn-round">
                         <i class="fa fa-instagram white-text pr-1"> </i>
                         Instagram
                     </a>
@@ -73,7 +73,8 @@
                 <h6 class="text-uppercase font-weight-bold">You can reach us 24/7</h6>
                 <hr class=" mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
                 <p>
-                    <a class="link link-gray" data-toggle="modal" data-target="#adressModal" href="#!"><i class="fa fa-home mr-3"></i>Estonia, Vana-Posti tn 7, 10146, Tallinn</a></p>
+                    <a class="link link-gray" data-toggle="modal" data-target="#adressModal" href="#"><i
+                            class="fa fa-home mr-3"></i>Estonia, Vana-Posti tn 7, 10146, Tallinn</a></p>
                 <p>
                     <a href="tel:+37256777210" class="link link-gray" >
                         <i class="fa fa-phone mr-3"></i>+372 56 777 210

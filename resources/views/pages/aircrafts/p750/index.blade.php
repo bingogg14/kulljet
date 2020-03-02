@@ -27,7 +27,7 @@
                 </div>
                 <div class="col-md-6 mt-5">
                     <div class="youtube-container">
-                        <iframe src="https://www.youtube.com/embed/YF9egPPC3kI?autoplay=1&controls=0&modestbranding=1&rel=0&showinfo=0&mute=1" frameborder="0" allowfullscreen class="youtube-video"></iframe>
+                        <iframe src="https://www.youtube.com/embed/YF9egPPC3kI?autoplay=1&controls=0&modestbranding=1&rel=0&showinfo=0&mute=1&loop=1" frameborder="0" allowfullscreen class="youtube-video"></iframe>
                     </div>
                 </div>
             </div>

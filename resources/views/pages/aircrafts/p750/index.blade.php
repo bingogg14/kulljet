@@ -5,7 +5,7 @@
 
 
 @section('content_header')
-    <div class="page-header p750-background header-filter blue-filter">
+    <div class="page-header p750-background header-filter dark-filter">
         <div class="container">
             <div class="row">
                 <div class="col-md-8">

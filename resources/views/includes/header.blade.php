@@ -6,7 +6,7 @@
                 <span class="sr-only">Toggle navigation</span>
                 <span class="navbar-toggler-icon"></span>
                 <span class="navbar-toggler-icon"></span>
-                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>About Us
             </button>
         </div>
         <div class="collapse navbar-collapse top">
@@ -16,6 +16,19 @@
                 </li>
                 <li class="nav-item {{ setActiveLink('about') }}">
                     <a href="{{ route('about')  }}" class="nav-link">About Us</a>
+                </li>
+                <li class="dropdown nav-item">
+                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
+                        <i class="material-icons">store</i> Aircraft for Sale
+                    </a>
+                    <div class="dropdown-menu">
+                        <a href="#" class="dropdown-item">
+                            P-750 XSTOL
+                        </a>
+                    </div>
+                </li>
+                <li class="nav-item {{ setActiveLink('sales_aircraft') }}">
+                    <a href="{{ route('sales_aircraft')  }}" class="nav-link">Sales</a>
                 </li>
                 <li class="nav-item {{ setActiveLink('charters') }}">
                     <a href="{{ route('charters')  }}" class="nav-link">Private Jet Charters</a>

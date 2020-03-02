@@ -9,7 +9,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-5 pull">
-                    <h1 class="title text-blue-gradient">
+                    <h1 class="title text-blue-gradient m-0">
                         P750 - XSTOL
                     </h1>
                     <h4>

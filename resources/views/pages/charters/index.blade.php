@@ -5,7 +5,7 @@
 
 
 @section('content_header')
-    @include('includes.helpers.header.page_header',
+    @include('includes.helpers.headers.default.page_header',
     [
         'page_header_title' => 'Private jet charters',
         'page_header_description' => 'At KullJet, we have built a business out of providing honest and high level quotes in an industry where that is not typical. Besides of the own fleet, we offer an access to the worldwide network of more than 3.500 aircraft. You can avoid everything you dislike about commercial airline travel while riding in the luxurious comfort of your own private aircraft. Our services are customized to meet your individual travel and financial requirements, and to support your flight operation with the highest standards of safety and personalized service, regardless of the location of the aircraft. We are focused on exceeding the expectations of our clients and redefining integrated private jet services. Call us to get an instant quote.'

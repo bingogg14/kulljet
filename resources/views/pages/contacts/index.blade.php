@@ -5,7 +5,7 @@
 
 
 @section('content_header')
-    @include('includes.helpers.header.page_header',
+    @include('includes.helpers.headers.default.page_header',
     [
         'page_header_title' => 'Contacts',
         'page_header_description' => '

@@ -22,7 +22,7 @@
                         <i class="material-icons">store</i> Aircraft for Sale
                     </a>
                     <div class="dropdown-menu">
-                        <a href="#" class="dropdown-item">
+                        <a href="{{ route('p750')  }}" class="dropdown-item">
                             P-750 XSTOL
                         </a>
                     </div>

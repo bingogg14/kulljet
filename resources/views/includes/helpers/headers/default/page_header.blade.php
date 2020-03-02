@@ -1,4 +1,4 @@
-<div class="page-header header-filter blue-filter">
+<div class="page-header home-background header-filter blue-filter">
     <div class="container">
         <div class="row">
             <div class="col-md-8">

@@ -6,7 +6,7 @@
                 <span class="sr-only">Toggle navigation</span>
                 <span class="navbar-toggler-icon"></span>
                 <span class="navbar-toggler-icon"></span>
-                <span class="navbar-toggler-icon"></span>About Us
+                <span class="navbar-toggler-icon"></span>
             </button>
         </div>
         <div class="collapse navbar-collapse top">

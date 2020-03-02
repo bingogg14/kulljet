@@ -27,9 +27,6 @@
                         </a>
                     </div>
                 </li>
-                <li class="nav-item {{ setActiveLink('sales_aircraft') }}">
-                    <a href="{{ route('sales_aircraft')  }}" class="nav-link">Sales</a>
-                </li>
                 <li class="nav-item {{ setActiveLink('charters') }}">
                     <a href="{{ route('charters')  }}" class="nav-link">Private Jet Charters</a>
                 </li>
